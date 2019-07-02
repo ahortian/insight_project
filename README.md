@@ -1,12 +1,12 @@
 # insight_project
 
 ## Get Weather Data
-(1) scrape data from website using: scraping_weather_v4.ipynb
+(1) scrape data from website using: scraping_weather_v4.ipynb  
 (2) aggregate the scraped data using: weather_concat.ipynb
 
 ## Create training dataset
-(1) create training dataset by: segment_map_time_reduce_police_random.ipynb
-	(1.1) this script is also used for EDA & plotting
+(1) create training dataset by: segment_map_time_reduce_police_random.ipynb  
+	(1.1) this script is also used for EDA & plotting  
 (2) merge this data with weather data by: train_data_merge_weather_hourgroup_police_rand.ipynb
 
 ## Basedline model : Mean
