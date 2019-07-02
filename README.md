@@ -6,10 +6,10 @@
 
 ## Create training dataset
 (1) create training dataset by: segment_map_time_reduce_police_random.ipynb  
-	(1.1) this script is also used for EDA & plotting  
+    (1.1) this script is also used for EDA & plotting  
 (2) merge this data with weather data by: train_data_merge_weather_hourgroup_police_rand.ipynb
 
-## Basedline model : Mean
+## Baseline model : Average over time
 (1) the calculation for the baseline model based on the average of crime over time is done by: performance_with_police_rand.ipynb
 >> original name: 2019_06_28_test_performance_with_police_rand_nocyclic.ipynb
 	
