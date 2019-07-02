@@ -1,0 +1,16 @@
+*.pyc
+.DS_Store
+.env
+
+*.csv
+*.xlsx
+
+*.dbf
+*.prj
+*shp
+*.shp*
+*.shx
+
+*.html
+
+.ipynb_checkpoints/*
