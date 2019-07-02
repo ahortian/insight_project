@@ -1,4 +1,7 @@
 # insight_project
+At Insight, I bult "SafeGetaway" a web app that predicts crime incidents during 
+a visitor stay at an Airbnb in Boston. 
+This repository contains jupyter notebooks which analyze data and build a model for the prediction.
 
 ## Get Weather Data
 (1) scrape data from website using: scraping_weather_v4.ipynb  
