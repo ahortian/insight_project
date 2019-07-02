@@ -6,7 +6,7 @@
 
 ## Create training dataset
 (1) create training dataset by: segment_map_time_reduce_police_random.ipynb  
-    (1.1) this script is also used for EDA & plotting  
+    >> (1.1) this script is also used for EDA & plotting  
 (2) merge this data with weather data by: train_data_merge_weather_hourgroup_police_rand.ipynb
 
 ## Baseline model : Average over time
