@@ -3,7 +3,7 @@ At Insight, I bult "SafeGetaway" a web app that predicts crime incidents during
 a visitor stay at an Airbnb in Boston. 
 This repository contains jupyter notebooks which analyze data and build a model for the prediction.
 
-## Get Weather Data
+## Get weather data
 1. Scrape data from website using: `00_scraping_weather.ipynb`  
 2. Aggregate the scraped data using: `01_weather_concat.ipynb`
 
@@ -17,7 +17,7 @@ This repository contains jupyter notebooks which analyze data and build a model 
 ## EDA
 1. Indepth EDA by : `05_EDA.ipynb`
 
-## Baseline model : Average over time
+## Baseline model : average over time
 1. The calculation for the baseline model based on the average of crime occurences over time is done by: `06_baseline_results.ipynb`
 	
 ## Gradient Boosting model
