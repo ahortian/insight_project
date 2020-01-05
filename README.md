@@ -1,5 +1,5 @@
 # insight_project
-At Insight, I bult "SafeGetaway" a web app that predicts crime incidents during 
+During the Insight Data Science Programe in Jun 2019, I bult "SafeGetaway" a web app that predicts crime occurrences during 
 a visitor stay at an Airbnb in Boston. 
 This repository contains jupyter notebooks which analyze data and build a model for the prediction.
 
@@ -18,7 +18,7 @@ This repository contains jupyter notebooks which analyze data and build a model 
 1. Indepth EDA by : `05_EDA.ipynb`
 
 ## Baseline model : average over time
-1. The calculation for the baseline model based on the average of crime occurences over time is done by: `06_baseline_results.ipynb`
+1. The calculation for the baseline model based on the average of crime occurrences over time is done by: `06_baseline_results.ipynb`
 	
 ## Gradient Boosting model
 1. This is done by: `07_model_performance.ipynb`
