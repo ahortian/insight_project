@@ -24,3 +24,5 @@ This repository contains jupyter notebooks which analyze data and build a model 
 1. This is done by: `07_model_performance.ipynb`
    - Also comparing the performance with logistic model
    
+## Presentation
+https://drive.google.com/file/d/1GX_cMocsz6z7ZM9tkZZV3024377zHBS9/view?usp=sharing
